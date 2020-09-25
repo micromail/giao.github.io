@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
-    <title>giao.ooo</title>
-    <updated>2020-09-25T06:45:46.982Z</updated>
+    <title>GIAOX3</title>
+    <updated>2020-09-25T07:13:34.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
     <logo>https://giao.ooo/images/avatar.png</logo>
     <icon>https://giao.ooo/favicon.ico</icon>
-    <rights>All rights reserved 2020, giao.ooo</rights>
+    <rights>All rights reserved 2020, GIAOX3</rights>
     <entry>
         <title type="html"><![CDATA[PMP重点笔记]]></title>
         <id>https://giao.ooo/post/pmp-chong-dian-bi-ji/</id>
@@ -40,19 +40,6 @@
 <p>• 风险管理：风险的存在是客观的 对风险的识别是主观的 单独风险和整体风险</p>
 <p>• 采购管理：合同类型是难点</p>
 <p>• 相关方管理：干系人 stakeholder筹码持有者</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://giao.ooo/post/hello-gridea/</id>
-        <link href="https://giao.ooo/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></content>
     </entry>
 </feed>
