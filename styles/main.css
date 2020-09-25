@@ -3037,13 +3037,29 @@ a.btn {
     font-size: 20px;
   }
   .page-top {
+    margin-right: 0;
+    box-sizing: border-box;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .page-top .information {
+    padding-top: 0;
+    padding-right: 0;
+  }
+  .page-top .information .back_btn {
+    padding-top: 0;
+    margin-right: 0;
+  }
+  .page-top .information .back_btn li {
+    padding: 18px 30px;
   }
   .post-title h3 {
     line-height: 1.6;
   }
   .content {
-    margin-top: 300px;
+    margin-top: 280px;
     width: 100%;
     z-index: 2;
     position: absolute;
