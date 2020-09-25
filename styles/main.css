@@ -2582,7 +2582,6 @@ table {
 }
 .sidebar .logo-title {
   text-align: center;
-  padding-top: 240px;
 }
 .sidebar .logo-title .description {
   font-size: 14px;
@@ -3040,10 +3039,11 @@ a.btn {
     width: 100%;
   }
   .post-title h3 {
+    display: none;
     line-height: 1.6;
   }
   .content {
-    margin-top: 420px;
+    margin-top: 300px;
     width: 100%;
     z-index: 2;
     position: absolute;
@@ -3063,4 +3063,12 @@ a.btn {
 .jinggetag:hover {
   background: #dee2e6;
   color: #495057;
+}
+@media screen and (min-width: 960px) {
+  .sidebar .logo-title {
+    padding-top: calc(50vh - 85px);
+  }
+  .sidebar .logo-title .title h3 {
+    display: none;
+  }
 }
