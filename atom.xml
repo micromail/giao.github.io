@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
-    <title>Giao</title>
-    <updated>2020-09-25T05:27:17.686Z</updated>
+    <title>giao.ooo</title>
+    <updated>2020-09-25T06:45:46.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
-    <subtitle>有点无所谓的记录</subtitle>
     <logo>https://giao.ooo/images/avatar.png</logo>
     <icon>https://giao.ooo/favicon.ico</icon>
-    <rights>All rights reserved 2020, Giao</rights>
+    <rights>All rights reserved 2020, giao.ooo</rights>
     <entry>
         <title type="html"><![CDATA[PMP重点笔记]]></title>
         <id>https://giao.ooo/post/pmp-chong-dian-bi-ji/</id>
         <link href="https://giao.ooo/post/pmp-chong-dian-bi-ji/">
         </link>
         <updated>2020-09-25T03:02:35.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="引言">引言</h1>
+<p>• 项目管理是一种结构化思维 就是管理人和事 目标就是人爽事成</p>
+<p>• 整合管理：部分构成整体、接口管理好</p>
+<p>• 范围管理：形容词的需求不可验收、两招：小步快跑快速失败、标杆对照 需求关注原因</p>
+<p>• 进度管理：关键路径 向非关键路径借资源 向关键路径保时间 关注闲置人员 也要关注闲置工作</p>
+<p>• 成本管理：挣值分析 估算和预算的区别</p>
+<p>• 质量管理：预防重于检查 QA和QC的区别、管理质量和质量控制的区别</p>
+<p>• 资源管理：人力和资源 抢人或者抢时间</p>
+<p>• 沟通管理：管理人就是管理人的期望</p>
+<p>• 风险管理：风险的存在是客观的 对风险的识别是主观的 单独风险和整体风险</p>
+<p>• 采购管理：合同类型是难点</p>
+<p>• 相关方管理：干系人 stakeholder筹码持有者</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="引言">引言</h1>
+<p>• 项目管理是一种结构化思维 就是管理人和事 目标就是人爽事成</p>
+<p>• 整合管理：部分构成整体、接口管理好</p>
+<p>• 范围管理：形容词的需求不可验收、两招：小步快跑快速失败、标杆对照 需求关注原因</p>
+<p>• 进度管理：关键路径 向非关键路径借资源 向关键路径保时间 关注闲置人员 也要关注闲置工作</p>
+<p>• 成本管理：挣值分析 估算和预算的区别</p>
+<p>• 质量管理：预防重于检查 QA和QC的区别、管理质量和质量控制的区别</p>
+<p>• 资源管理：人力和资源 抢人或者抢时间</p>
+<p>• 沟通管理：管理人就是管理人的期望</p>
+<p>• 风险管理：风险的存在是客观的 对风险的识别是主观的 单独风险和整体风险</p>
+<p>• 采购管理：合同类型是难点</p>
+<p>• 相关方管理：干系人 stakeholder筹码持有者</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
