@@ -3033,13 +3033,13 @@ a.btn {
     width: 100px;
   }
   .sidebar .logo-title .title h3 {
+    display: none;
     font-size: 20px;
   }
   .page-top {
     width: 100%;
   }
   .post-title h3 {
-    display: none;
     line-height: 1.6;
   }
   .content {
