@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
-    <title>GIAOOOO</title>
-    <updated>2020-09-25T13:25:29.932Z</updated>
+    <title>giao³</title>
+    <updated>2020-09-25T13:47:37.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
+    <subtitle>野生产品社畜日志</subtitle>
     <logo>https://giao.ooo/images/avatar.png</logo>
     <icon>https://giao.ooo/favicon.ico</icon>
-    <rights>All rights reserved 2020, GIAOOOO</rights>
+    <rights>All rights reserved 2020, giao³</rights>
     <entry>
         <title type="html"><![CDATA[PMP重点笔记]]></title>
         <id>https://giao.ooo/post/pmp-chong-dian-bi-ji/</id>
