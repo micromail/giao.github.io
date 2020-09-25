@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
     <title>giao³</title>
-    <updated>2020-09-25T13:52:18.971Z</updated>
+    <updated>2020-09-25T13:59:38.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
@@ -10,6 +10,67 @@
     <logo>https://giao.ooo/images/avatar.png</logo>
     <icon>https://giao.ooo/favicon.ico</icon>
     <rights>All rights reserved 2020, giao³</rights>
+    <entry>
+        <title type="html"><![CDATA[收藏！PMP考试备考攻略之应试技巧二十五条]]></title>
+        <id>https://giao.ooo/post/shou-cang-pmp-kao-shi-bei-kao-gong-lue-zhi-ying-shi-ji-qiao-er-shi-wu-tiao/</id>
+        <link href="https://giao.ooo/post/shou-cang-pmp-kao-shi-bei-kao-gong-lue-zhi-ying-shi-ji-qiao-er-shi-wu-tiao/">
+        </link>
+        <updated>2020-09-25T13:58:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>PMP考试一共4小时，总共200道题，70多页的试卷，还要涂答题卡……如果平时没有强加训练，时间还是非常紧张的。</p>
+<p>而且PMP考试情景题居多，题干巨长，如果没有掌握住方法，可能导致做题的速度和准确率大大减低。</p>
+<p>今天，科科过的老师下面为大家介绍的是关于PMP考试备考攻略之应试技巧二十五条，希望能帮助大家高效备考，顺利通过考试。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>PMP考试一共4小时，总共200道题，70多页的试卷，还要涂答题卡……如果平时没有强加训练，时间还是非常紧张的。</p>
+<p>而且PMP考试情景题居多，题干巨长，如果没有掌握住方法，可能导致做题的速度和准确率大大减低。</p>
+<p>今天，科科过的老师下面为大家介绍的是关于PMP考试备考攻略之应试技巧二十五条，希望能帮助大家高效备考，顺利通过考试。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PMP考试题目中31个常见固定套路]]></title>
+        <id>https://giao.ooo/post/pmp-kao-shi-ti-mu-zhong-31-ge-chang-jian-gu-ding-tao-lu/</id>
+        <link href="https://giao.ooo/post/pmp-kao-shi-ti-mu-zhong-31-ge-chang-jian-gu-ding-tao-lu/">
+        </link>
+        <updated>2020-09-25T13:57:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>PMP考试题目中31个常见固定套路2017-11</p>
+<p>一、变更批准之后：</p>
+<p>变更批准后要做五件事，</p>
+<p>1、在变更日志中记录；</p>
+<p>2、通知相关干系人（相关方）；</p>
+<p>3、更新项目管理计划</p>
+<p>4、实施批准过的变更</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>PMP考试题目中31个常见固定套路2017-11</p>
+<p>一、变更批准之后：</p>
+<p>变更批准后要做五件事，</p>
+<p>1、在变更日志中记录；</p>
+<p>2、通知相关干系人（相关方）；</p>
+<p>3、更新项目管理计划</p>
+<p>4、实施批准过的变更</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PMP考试最全知识点归]]></title>
+        <id>https://giao.ooo/post/pmp-kao-shi-zui-quan-zhi-shi-dian-gui/</id>
+        <link href="https://giao.ooo/post/pmp-kao-shi-zui-quan-zhi-shi-dian-gui/">
+        </link>
+        <updated>2020-09-25T13:54:16.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="一-需要记忆的公式"><strong>一、需要记忆的公式</strong></h2>
+<p>1三点估算。期望值、标准差、方差</p>
+<p>2关键路径计算。ES、EF、LS、LF、总浮动时间、自由浮动时间</p>
+<p>3挣值计算。CPI、SPI、ETC、EAC、TCPI</p>
+<p>4决策树模型计算</p>
+<p>5沟通渠道计算</p>
+<p>6合同计算。CPPC、CPFF、CPIF、FPIF</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="一-需要记忆的公式"><strong>一、需要记忆的公式</strong></h2>
+<p>1三点估算。期望值、标准差、方差</p>
+<p>2关键路径计算。ES、EF、LS、LF、总浮动时间、自由浮动时间</p>
+<p>3挣值计算。CPI、SPI、ETC、EAC、TCPI</p>
+<p>4决策树模型计算</p>
+<p>5沟通渠道计算</p>
+<p>6合同计算。CPPC、CPFF、CPIF、FPIF</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PMP重点笔记]]></title>
         <id>https://giao.ooo/post/pmp-chong-dian-bi-ji/</id>
