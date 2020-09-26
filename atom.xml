@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
     <title>giao³</title>
-    <updated>2020-09-25T14:27:20.995Z</updated>
+    <updated>2020-09-26T02:02:33.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://giao.ooo/images/avatar.png</logo>
     <icon>https://giao.ooo/favicon.ico</icon>
     <rights>All rights reserved 2020, giao³</rights>
+    <entry>
+        <title type="html"><![CDATA[ 考前记忆]]></title>
+        <id>https://giao.ooo/post/kao-qian-ji-yi/</id>
+        <link href="https://giao.ooo/post/kao-qian-ji-yi/">
+        </link>
+        <updated>2020-09-26T01:29:21.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收藏！PMP考试备考攻略之应试技巧二十五条]]></title>
         <id>https://giao.ooo/post/shou-cang-pmp-kao-shi-bei-kao-gong-lue-zhi-ying-shi-ji-qiao-er-shi-wu-tiao/</id>
