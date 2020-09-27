@@ -315,7 +315,7 @@ a {
   transition: all 0.3s;
 }
 a:hover {
-  color: #006CFF;
+  color: #11B711;
 }
 body,
 div,
@@ -355,6 +355,7 @@ td {
   text-align: center;
 }
 .site-header .site-title {
+  display: none;
   font-size: 32px;
   font-weight: bold;
 }
@@ -445,6 +446,7 @@ td {
   transform: scale(1.0082);
 }
 .post-container .post .post-abstract {
+  display: none;
   padding: 24px 0;
   line-height: 1.5;
   font-size: 16px;
@@ -453,7 +455,7 @@ td {
   font-weight: bolder;
 }
 .post-container .post .post-abstract a {
-  color: #006CFF;
+  color: #11B711;
   transition: all 0.3s;
 }
 .post-container .post .post-abstract a:hover {
@@ -810,7 +812,7 @@ td {
   background: #fafafa;
 }
 .toc-container li a.current {
-  color: #006CFF;
+  color: #11B711;
   background: #fafafa;
 }
 @media (max-width: 600px) {
