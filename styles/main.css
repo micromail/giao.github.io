@@ -446,7 +446,6 @@ td {
   transform: scale(1.0082);
 }
 .post-container .post .post-abstract {
-  display: none;
   padding: 24px 0;
   line-height: 1.5;
   font-size: 16px;
@@ -978,7 +977,7 @@ td {
 }
 
       .main {
-        max-width: 666;
+        max-width: 800;
       }
     
       .post-detail .post .post-content p {
@@ -1000,6 +999,14 @@ td {
     
       body {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
+      }
+    
+      .main {
+        background: #f8f9fa;
+      }
+    
+      body {
+        background: #00000;
       }
     
       body {

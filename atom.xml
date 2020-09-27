@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giao.ooo</id>
     <title>giao³</title>
-    <updated>2020-09-27T02:16:09.400Z</updated>
+    <updated>2020-09-27T02:32:43.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giao.ooo"/>
     <link rel="self" href="https://giao.ooo/atom.xml"/>
@@ -15,6 +15,14 @@
         <link href="https://giao.ooo/post/kao-qian-ji-yi/">
         </link>
         <updated>2020-09-26T01:29:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>解题<br>
+审题：主谓宾 关键词 找考点 看问句（过程、工具、文件）<br>
+选项：不发散 紧贴题 看流程 有先后 有相似 选全面 都不错 选有效</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>解题<br>
+审题：主谓宾 关键词 找考点 看问句（过程、工具、文件）<br>
+选项：不发散 紧贴题 看流程 有先后 有相似 选全面 都不错 选有效</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[收藏！PMP考试备考攻略之应试技巧二十五条]]></title>
