@@ -472,7 +472,9 @@ ul li {
   flex-direction: column;
 }
 .navbar {
-  padding: 38px 96px !important;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 38px 58px !important;
 }
 .navbar .navbar-brand {
   display: flex;
