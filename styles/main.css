@@ -474,7 +474,7 @@ ul li {
 .navbar {
   width: 1000px;
   margin: 0 auto;
-  padding: 38px 58px !important;
+  padding: 38px 30px !important;
 }
 .navbar .navbar-brand {
   display: flex;
